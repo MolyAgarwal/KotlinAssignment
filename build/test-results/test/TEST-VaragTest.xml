@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VaragTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-18T07:04:39" hostname="linux" time="0.012">
+  <properties/>
+  <testcase name="Testcase 1" classname="VaragTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
